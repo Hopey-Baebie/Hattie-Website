@@ -1,0 +1,21 @@
+#home {
+    height: 820px;
+}
+
+.main {
+    align-items: center;
+    text-align: center;
+}
+
+.heading {
+    font-size: 22px;
+}
+
+#pic img {
+    width: 100px;
+    height: 175px;
+}
+
+#intro h2 {
+    font-size: 20px;
+}
