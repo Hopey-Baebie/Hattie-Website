@@ -19,3 +19,11 @@
 #intro h2 {
     font-size: 20px;
 }
+
+.boxes {
+    height: 300px;
+}
+
+.info-box {
+    width: 350px;
+}
