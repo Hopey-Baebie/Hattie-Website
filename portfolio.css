@@ -91,7 +91,7 @@ p {
 #pic img {
     width: 370px;
     height: 400px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 #intro {
@@ -99,6 +99,7 @@ p {
     flex-direction: column;
     text-align: justify;
     padding: 10px;
+    justify-content: center;
 }
 
 h2 {
