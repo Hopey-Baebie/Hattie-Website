@@ -167,7 +167,7 @@ h2 {
     border: 1px solid black;
     margin: 10px;
     align-items: center;
-    text-align: justify;
+    text-align: center;
     padding: 10px;
     border-radius: 15px;
     background: linear-gradient(to top, rgb(63, 58, 58) 50%, white 50%);
