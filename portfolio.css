@@ -30,13 +30,18 @@
 }
 
 .headings a {
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    top: 30%;
-    right: 10%;
     text-decoration: none;
-    color: white;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    line-height: 1;
+    margin-right: 8px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
 }
 
 .main {
