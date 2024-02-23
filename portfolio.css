@@ -31,15 +31,15 @@
 
 .headings a {
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: left;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
     line-height: 1;
-    margin-right: 8px;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
+    left: 10%;
     width: 40px;
     height: 40px;
 }
